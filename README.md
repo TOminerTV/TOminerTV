@@ -35,12 +35,15 @@ tobias@github:~$ cat my-profile.txt
   )  |  \  `.___________|/
   `--'   `--'
  
-tobias@github:~$ ls
-. .. .bash_history .bash_logout .bashrc .profile .viminfo .vimrc about-me project-ideas repositories my-profile.txt
+tobias@github:~$ ls -a
+. .. about-me .bash_history .bash_logout .bashrc my-profile.txt .profile project-ideas repositories .viminfo .vimrc
 tobias@github:~$ cd about-me/
 </pre>
 
-
+<h2>About me</h2>
+<p>
+I am 22 years old and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects, like working on the website for the gaming community https://projekt-eleven.eu. More of my work and study You can explore my projects on <a href="https://dennis-abrams.com">my website</a> 🌐.
+</p>
 
 
 
