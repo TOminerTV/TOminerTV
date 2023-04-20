@@ -72,22 +72,9 @@ tobias@github:~$ cd about-me/
 <code><img src="./alpine-js-logo.svg" alt="Alpine.js" title="Alpine.js" width="25" height="25"></code>
 </div>
 
+<br><br>
+<h2>My projects</h2>
+<h4>Projekt Eleven</h4>
+<a href="https://projekt-eleven.eu" target="_blank">Projekt Eleven</a> is a German-speaking gaming community. As one of the CEOs of the community, I develop the website, as well as the Teamspeak3 scripts in the past. If you like gaming, come over and check out our community. Thanks also to <a href="https://github.com/dennisabrams" target="_blank">Dennis Abrams</a> who has taken over the Teamspeak3 and CS:GO programming. Check out his profile, he has nice repositories, maybe you can leave a star on one of them 😉.
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:60a5fa&section=footer&height=100" />
-
-
-
-
-<!--
-**TOminerTV/TOminerTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
