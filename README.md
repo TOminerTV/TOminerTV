@@ -56,19 +56,20 @@ tobias@github:~$ cd about-me/
 
 
 <div align="center">
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="25" height="25"/></code>&nbsp;
-<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png#gh-dark-mode-only" alt="Bash" title="Bash" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#light-mode-only" alt="Bash" title="Bash" width="25" height="25"/></code></a>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" title="PostgreSQL" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="25" height="25"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="25" height="25"></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png#gh-dark-mode-only" alt="Bash" title="Bash" width="25" height="25"></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#light-mode-only" alt="Bash" title="Bash" width="25" height="25"></code></a>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" title="PostgreSQL" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="25" height="25"></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="25" height="25"></code>&nbsp;
+<code><svg xmlns="http://www.w3.org/2000/svg" width="702" height="134"><g fill="none" fill-rule="evenodd"><path fill="#77C1D2" d="M149.52 22.303 189.392 62l-39.872 39.697L109.648 62z"/><path fill="#2D3441" d="M49.84 22.303 132.5 104.6H52.756L9.968 62z"/></g></svg></code>
 </div>
 
 
