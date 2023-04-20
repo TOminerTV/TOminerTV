@@ -69,7 +69,7 @@ tobias@github:~$ cd about-me/
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="25" height="25"></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="25" height="25"></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="25" height="25"></code>&nbsp;
-<code><img src="./alpine-js-logo.svg" alt="Alpine.js" title="Alpine.js" width="30" height="25"></code>
+<code><img src="./alpine-js-logo.svg" alt="Alpine.js" title="Alpine.js" width="25" height="25"></code>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:60a5fa&section=footer&height=100" />
