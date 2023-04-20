@@ -72,7 +72,7 @@ tobias@github:~$ cd about-me/
 <code><img src="./alpine-js-logo.svg" alt="Alpine.js" title="Alpine.js" width="30" height="25"></code>
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:60a5fa&section=footer&height=100" />
 
 
 
