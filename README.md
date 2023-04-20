@@ -19,22 +19,8 @@
 
 <br>
 <pre>
-tobias@github:~$ ls
+tobias@github:~$ ls -a project-ideas
 ls: reading directory 'project-ideas': Input/output error, too many files
-tobias@github:~$ cat my-profile.txt
-
-  ,-.       _,---._ __  / \
- /  )    .-'       `./ /   \
-(  (   ,'            `/    /|
- \  `-"             \'\   / |
-  `.              ,  \ \ /  |
-   /`.          ,'-`----Y   |
-  (            ;        |   '
-  |  ,-.    ,-'         |  /
-  |  | (   |            | /
-  )  |  \  `.___________|/
-  `--'   `--'
- 
 tobias@github:~$ ls -a
 . .. about-me .bash_history .bash_logout .bashrc my-profile.txt .profile project-ideas repositories .viminfo .vimrc
 tobias@github:~$ cd about-me/
