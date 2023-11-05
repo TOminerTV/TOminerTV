@@ -27,7 +27,7 @@ tobias@github:~$ cd about-me/
 <ul>
   <li>I graduated from the <a href="https://bbs-me.de/index.php/berufsfachschule-informationstechn-assisitentin-bfi-2-2/">bbs|me</a> vocational school as an State-certified Information Technology Assistant 💻</li>
   <li>I obtained my advanced technical college entrance qualification in electrical engineering at the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">bbs|me</a> technical college, Department of Electrical Engineering ⚡</li>
-  <li>I completed my Bachelor's degree in Media Design Informatics at<br><a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">Hanover University of Applied Sciences and Arts</a> 🎓</li>
+  <li>I completed my Bachelor's degree in Media Design Informatics<br> at <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">Hanover University of Applied Sciences and Arts</a> 🎓</li>
 </ul>
 
 <h4>Languages & Technologies</h4>
