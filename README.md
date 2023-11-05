@@ -20,14 +20,14 @@ tobias@github:~$ cd about-me/
 </pre>
 
 <h2>About me</h2>
-<p>I am 22 years old and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects, like working on the website for the gaming community https://projekt-eleven.eu. More about my work and my studies at https://piselzer.spdns.de 🌐.</p>
+<p>I am 23 years old and currently studying for a Master's degree 📃 at the <a href="https://www.hs-hannover.de/en/">Hanover University of Applied Sciences and Arts</a> 🏛, Department of Economics and computer science 🖥️. In my free time, I do my own projects, such as developing the website for my gaming community https://projekt-eleven.eu. More about my work and my studies at https://piselzer.spdns.de 🌐.</p>
 
 <h4>My degrees</h4>
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tominertv&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&hide=issues,contribs&hide_title=true&text_color=c9d1d9&title_color=3b82f6&icon_color=3b82f6">
 <ul>
   <li>I graduated from the <a href="https://bbs-me.de/index.php/berufsfachschule-informationstechn-assisitentin-bfi-2-2/">bbs|me</a> vocational school as an State-certified Information Technology Assistant 💻</li>
-  <li>I obtained my advanced technical college entrance qualification in electrical engineering at the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">bbs|me</a> technical college, Department of Electrical Engineering ⚡.
-  </li>
+  <li>I obtained my advanced technical college entrance qualification in electrical engineering at the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">bbs|me</a> technical college, Department of Electrical Engineering ⚡</li>
+  <li>I completed my Bachelor's degree in Media Design Informatics at<br><a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">Hanover University of Applied Sciences and Arts</a> 🎓</li>
 </ul>
 
 <h4>Languages & Technologies</h4>
@@ -49,9 +49,10 @@ tobias@github:~$ cd about-me/
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="25" height="25"></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="25" height="25"></code>&nbsp;
 <code><img src="./alpine-js-logo.svg" alt="Alpine.js" title="Alpine.js" width="25" height="25"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="25" height="25"></code>&nbsp;
 </div>
 
-<br>
+<br><br><br>
 <h2>My projects</h2>
 <h4>Projekt Eleven</h4>
 <p><a href="https://projekt-eleven.eu">Projekt Eleven</a> is a German-speaking gaming community. As one of the CEOs of the community, I develop the website, as well as the Teamspeak3 scripts in the past. If you like gaming, come over and check out our community. Thanks also to <a href="https://github.com/dennisabrams">Dennis Abrams</a> who has taken over the Teamspeak3 and CS:GO programming. Check out his profile, he has nice repositories, maybe you can leave a star on one of them 😉.</p>
