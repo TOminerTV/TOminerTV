@@ -20,7 +20,7 @@ tobias@github:~$ cd about-me/
 </pre>
 
 <h2>About me</h2>
-<p>I am 23 years old and currently studying for a Master's degree 📃 at the <a href="https://www.hs-hannover.de/en/">Hanover University of Applied Sciences and Arts</a> 🏛, Department of Economics and computer science 🖥️. In my free time, I do my own projects, such as developing the website for my gaming community https://projekt-eleven.eu. More about my work and my studies at https://piselzer.spdns.de 🌐.</p>
+<p>I am 24 years old and currently studying for a Master's degree 📃 at the <a href="https://www.hs-hannover.de/en/">Hanover University of Applied Sciences and Arts</a> 🏛, Department of Economics and computer science 🖥️. In my free time, I do my own projects, such as developing the website for my gaming community https://projekt-eleven.eu. More about my work and my studies at https://piselzer.spdns.de 🌐.</p>
 
 <h4>My degrees</h4>
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tominertv&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&hide=issues,contribs&hide_title=true&text_color=c9d1d9&title_color=3b82f6&icon_color=3b82f6">
