@@ -58,7 +58,7 @@ tobias@github:~$ cd about-me/
 <p><a href="https://projekt-eleven.eu">Projekt Eleven</a> is a German-speaking gaming community. As one of the CEOs of the community, I develop the website, as well as the Teamspeak3 scripts in the past. If you like gaming, come over and check out our community. Thanks also to <a href="https://github.com/dennisabrams">Dennis Abrams</a> who has taken over the Teamspeak3 and CS:GO programming. Check out his profile, he has nice repositories, maybe you can leave a star on one of them 😉.</p>
 
 <h4>GermanMiners.net</h4>
-<p><a href="https://germanminers.net">GermanMiners.net</a> is a minecraft server community. In cooperation with Projekt Eleven the new Minecraft server and the new website were developed. If you're a Minecraft fan, feel free to check out the server: germanminers.net / projekt-eleven.eu</p>
+<p><a href="https://germanminers.net">GermanMiners.net</a> was a Minecraft server community. In cooperation with Projekt Eleven the new Minecraft server and the new website were developed. If you're a Minecraft fan, feel free to check out the new server on <a href="https://projekt-eleven.eu">Projekt Eleven</a></p>
 
 <br>
 <pre>
